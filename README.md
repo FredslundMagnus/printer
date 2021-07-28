@@ -1,1 +1,1 @@
-# printer
+A simple command-line application.
